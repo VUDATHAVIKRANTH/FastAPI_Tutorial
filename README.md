@@ -2,6 +2,7 @@
 All about FastAPI
 
 1.Introduction
+
 it starts with importing FastAPI
 and intializing the FastAPI class
 
