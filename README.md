@@ -8,4 +8,6 @@ and intializing the FastAPI class
 
 for running the FastAPI we need uvicorn
 
+commmond use: uvicorn main:app --reload
+
 
