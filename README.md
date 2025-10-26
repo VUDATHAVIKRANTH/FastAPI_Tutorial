@@ -1,13 +1,12 @@
 # FastAPI_Tutorial
 All about FastAPI
 
-1.Introduction
-
-it starts with importing FastAPI
-and intializing the FastAPI class
+To start working with FastAPI start create a virtual environment and install FastAPI init.
 
 for running the FastAPI we need uvicorn
 
-commmond use: uvicorn main:app --reload
+commmond: uvicorn main:app --reload
+
+
 
 
