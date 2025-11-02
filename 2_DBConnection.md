@@ -20,3 +20,5 @@ Installing postgresql with docker
      psql -U postgres
      ~~~
   5. connect to vs code by using extension SQLtool or postgresl and make a new connection
+     <img width="463" height="327" alt="image" src="https://github.com/user-attachments/assets/a06a2916-f062-4410-98de-933cf4f17487" />
+
